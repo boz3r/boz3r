@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning about Reverse Engineer and The second language.(English)
 - 👾 I write Go and C on linux mostly, But also know another language like C++ and Java too.
-- 🧢 I’m looking to join some University with IT or Com-Sci Major.
+- 🧢 I’m looking to join some University with IT, CS or SE Major.
 - 🤏 I don't know almost everything about web dev.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
