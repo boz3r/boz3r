@@ -11,9 +11,9 @@
 </p>
 
 - 🌱 I’m currently learning about Reverse Engineer and The second language.(English)
-- 👯 I’m looking to join some IT or Com-sci Major.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👾 I write Go and C on linux mostly but also know another language like C++ and Java too.
+- 🧢 I’m looking to join some University with IT or Com-Sci Major.
+- 🤏 I don't know almost everything about web dev.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin)
