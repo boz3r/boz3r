@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 I’m currently learning about Reverse Engineer and The second language.(English)
-- 👾 I write Go and C on linux mostly, But also know another language like C++ and Java too.
+- 👾 I write Go on linux mostly, But also know another language like C/C++ and Java too.
 - 🧢 I’m looking to join some University with IT, CS or SE Major.
 - 🤏 I don't know almost everything about web dev.
 
