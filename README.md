@@ -16,5 +16,13 @@
 - 🤏 I don't know almost everything about web dev.
 - 🍀 Fact 2, 4, 7 and 8 is my lucky number. 
 
+<p align="center">
+    My language use for.
+</p>
+
+<p><strong>Go</strong> is my main language for network, system and etc.</p>
+<p><strong>C/C++</strong> is my second language for dev some project that have a good perfomance, small size and like Go, Because Go executable big af.</p>
+<p><strong>Java</strong> is my first language that i learn for programming.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin)
