@@ -16,6 +16,8 @@
 - 🤏 I don't know almost everything about web dev.
 - 🍀 Fact 2, 4, 7 and 8 is my lucky number. 
 
+---
+
 <p align="center">
     My language use for.
 </p>
