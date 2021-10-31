@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="typing-jim-carrey.gif" alt="Typing-Jim">
+    <img src="typing-fast.gif" alt="Typing">
 </p>
 
 - 🌱 I’m currently learning about Reverse Engineer and The second language.(English)
