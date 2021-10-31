@@ -1,8 +1,13 @@
-<style>
-  h1 {text-align: center;}
-  p {text-align: center;}
-  div {text-align: center;}
-</style>
+<html>
+  <head>
+    <style>
+      h1 {text-align: center;}
+      p {text-align: center;}
+      div {text-align: center;}
+     </style>
+  </head>
+<body>
+
 
 - 🌱 I’m currently learning about Reverse Engineer and The second language.(English) 🤣
 - 👯 I’m looking to collaborate with other content creators
