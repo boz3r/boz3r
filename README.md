@@ -36,5 +36,7 @@
     <strong>Java</strong> is my first language that i learn for programming.
 </p>
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin)
