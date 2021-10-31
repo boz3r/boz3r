@@ -5,4 +5,4 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
