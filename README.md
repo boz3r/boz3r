@@ -41,7 +41,7 @@
 <p align="center">
     <strong>Java</strong>
     <p align="center">
-        My first language, That i learn for programming. Now i forgot all about it.
+        My first language, That i learn for programming. Now i forgot all of it.
     </p>
 </p>
 
