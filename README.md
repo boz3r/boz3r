@@ -19,10 +19,15 @@
 <p align="center">
     My language use for.
 </p>
-
-<p><strong>Go</strong> is my main language for network, system and etc.</p>
-<p><strong>C/C++</strong> is my second language for dev some project that have a good perfomance, small size and like Go, Because Go executable big af.</p>
-<p><strong>Java</strong> is my first language that i learn for programming.
+<p align="center">
+    <strong>Go</strong> is my main language for network, system and etc.
+</p>
+<p align="center">
+    <strong>C/C++</strong> is my second language for dev some project that have a good perfomance, small size and like Go, Because Go executable big af.
+</p>
+<p align="center">
+    <strong>Java</strong> is my first language that i learn for programming.
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin)
