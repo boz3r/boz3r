@@ -21,6 +21,11 @@
 <p align="center">
     My language use for.
 </p>
+
+<p align="center">
+    <img src="pqoiwe.gif" alt="Typing2">
+</p>
+
 <p align="center">
     <strong>Go</strong> is my main language for network, system and etc.
 </p>
