@@ -1,6 +1,9 @@
 <p align="center">
     Hello, I'm R4bin.
-    <p>I'm a 17 years old, Newbie Malware Analyst and Developer!!!!</p>
+</p>
+
+<p align="center">
+    I'm a 17 years old, Newbie Malware Analyst and Developer!!!!
 </p>
 
 <p align="center">
