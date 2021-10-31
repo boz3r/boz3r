@@ -2,6 +2,13 @@
     Hello, I'm R4bin.
 </p>
 
+<p align="center">
+    <img src="typing-jim-carrey.gif" alt="Typing-Jim">
+</p>
+
+
+typing-jim-carrey
+
 
 - 🌱 I’m currently learning about Reverse Engineer and The second language.(English)
 - 👯 I’m looking to collaborate with other content creators
