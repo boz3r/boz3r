@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-    <img src="typing-fast.gif" alt="Typing">
+    <img src="qweoiuqweiu.gif" alt="Typing">
 </p>
 
 - 🌱 I’m currently learning about Reverse Engineer and The second language.(English)
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to join some IT or Com-sci Major.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
