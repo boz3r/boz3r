@@ -15,5 +15,7 @@
 - 🧢 I’m looking to join some University with IT or Com-Sci Major.
 - 🤏 I don't know almost everything about web dev.
 
+"Every time it has a computer class, I fell like i'm not good at it. Feel like everybody is point to me, And i don't want every one know That's i'm not good at it."
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin)
