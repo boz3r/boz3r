@@ -27,13 +27,22 @@
 </p>
 
 <p align="center">
-    <strong>Go</strong> is my main language for network, system and etc.
+    <strong>Go</strong>
+    <p align="center">
+        My main language for network, system and etc.
+    </p>
 </p>
 <p align="center">
-    <strong>C/C++</strong> is my second language for dev some project that have a good perfomance, small size and like Go, Because Go executable big af.
+    <strong>C/C++</strong>
+    <p align="center">
+        My second language for dev some project that have a good perfomance, small size and like Go, Because Go executable big af.
+    </p>
 </p>
 <p align="center">
-    <strong>Java</strong> is my first language that i learn for programming.
+    <strong>Java</strong>
+    <p align="center">
+        My first language, That i learn for programming. Now i forgot all about it.
+    </p>
 </p>
 
 ---
