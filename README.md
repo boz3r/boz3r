@@ -10,10 +10,12 @@
     <img src="qweoiuqweiu.gif" alt="Typing">
 </p>
 
-- 🌱 I’m currently learning about Reverse Engineer and The second language.(English)
-- 👾 I write Go and C on linux mostly, But also know another language like C++ and Java too.
-- 🧢 I’m looking to join some University with IT or Com-Sci Major.
-- 🤏 I don't know almost everything about web dev.
+<p align="center">
+    - 🌱 I’m currently learning about Reverse Engineer and The second language.(English)
+    - 👾 I write Go and C on linux mostly, But also know another language like C++ and Java too.
+    - 🧢 I’m looking to join some University with IT or Com-Sci Major.
+    - 🤏 I don't know almost everything about web dev.
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin)
