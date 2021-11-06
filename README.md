@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-   I want to become a Malware Analyst because i like to research and learn about malware, But hate to Reverse Engineer.
+   I want to become a Malware Analyst because, I like to research and learn about malware, But hate to Reverse Engineer.
 </p>
 
 <p align="center">
-   I want to become a DDoS pentester because i like how art and creative it is, But hate Web Development.
+   I want to become a DDoS pentester because, I like how art and creative it is, But hate Web Development.
 </p>
 
 <p align="center">
