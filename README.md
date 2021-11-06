@@ -15,7 +15,7 @@
 - 👾 I write Go mostly, But also know another language like C/C++ and Java too.
 - 🧢 I’m looking to join some University with IT, CS or SE Major.
 - 🤏 I don't know almost everything about web dev.
-- 😞 Fact, I want to become a Malware Analyst, Because it fun to learn and research about malware, But suck at Reverse Engineer.
+- 😞 Fact, I want to become a Malware Analyst, But suck at Reverse Engineer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin)
