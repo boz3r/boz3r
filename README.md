@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+    I want to become a Malware Analyst because i like to research and learn about malware, But hate to Reverse Engineer. 
+    I want to become a DDoS pentester because i like how art and creative it is, But hate Web Development.
+    Now i'm so Confused, What i'm gonna be.
+</p>
+
+<p align="center">
     <img src="qweoiuqweiu.gif" alt="Typing">
 </p>
 
