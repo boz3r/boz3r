@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    I'm a 17 years old, Newbie Malware Analyst and Developer!!!!
+    I'm a 17 years old, who's like to develop malware for fun!!!!
 </p>
 
 <p align="center">
