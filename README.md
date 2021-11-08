@@ -1,5 +1,5 @@
 <p align="center">
-    Hello, I'm Don - aka R3bin or R3y.
+    Hello, I'm Don - aka Rebin.
 </p>
 
 <p align="center">
