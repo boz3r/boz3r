@@ -15,7 +15,7 @@
 - 👾 I write Go mostly, But also know another language like C/C++ and Java too.
 - 🧢 I’m looking to join some University with IT, CS or SE Major.
 - 🤏 I don't know almost everything about web dev.
-- 😞 Fact: I want to become a Malware Analyst, DDoS pentester or Security software developer. 
+- 😞 Fact: I want to become a Malware Analyst, DDoS pentester or Security Software Developer.
 - 😵‍💫 Now I'm so confuesd what i'm gonna be when i grow up.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
