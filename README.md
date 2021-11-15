@@ -17,4 +17,4 @@
 - 😞 Fact: I don't know almost everything about web dev.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin&show_icons=true&theme=radical)
