@@ -18,4 +18,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin&show_icons=true&theme=radical)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=R4bin&repo=Fatebot-v0.3.1&title_color=fff&show_icons=true&theme=radical)
