@@ -16,5 +16,6 @@
 - 🧢 I’m looking to join some University with IT, CS or SE Major.
 - 😞 Fact: I don't know almost everything about web dev.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4bin&langs_count=8)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4bin&show_icons=true&theme=radical)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=R4bin&repo=Fatebot-v0.3.1&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
