@@ -1,5 +1,5 @@
 <p align="center">
-    Hello, I'm Bombozer.
+    Hello, I'm Bombbozer.
 </p>
 
 <p align="center">
