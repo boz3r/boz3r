@@ -1,5 +1,5 @@
 <p align="center">
-    Hello, I'm Don - aka Dozer.
+    Hello, I'm Dozer.
 </p>
 
 <p align="center">
