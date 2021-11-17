@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    I'm a 17 years old, Who's like to Develop Malware and Security Software for fun.
+    I'm a 17 years old, Who's like to Develop Malware and Security Software.
 </p>
 
 <p align="center">
