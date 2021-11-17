@@ -16,9 +16,9 @@
 - 🧢 I’m looking to join some University with IT, CS or SE Major.
 - 😞 Fact: I don't know almost everything about web dev.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bombozer&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bombozer&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bombozer&show_icons=true&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bombozer&show_icons=true&theme=swift)
 
 <a href="https://github.com/Bombozer/Fatebot-v0.3.1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bombozer&repo=Fatebot-v0.3.1&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bombozer&repo=Fatebot-v0.3.1&show_icons=true&theme=swift />
 </a>
