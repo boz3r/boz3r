@@ -20,5 +20,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bombozer&show_icons=true&theme=swift)
 
 <a href="https://github.com/Bombozer/Fatebot-v0.3.1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bombozer&repo=Fatebot-v0.3.1&show_icons=true&theme=swift />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bombozer&repo=Fatebot-v0.3.1&show_owner=true/>
 </a>
