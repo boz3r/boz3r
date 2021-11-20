@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+      Newbie Security Software Developer and Malware Analyst.
+</p>
+
+<p align="center">
     <img src="qweoiuqweiu.gif" alt="Typing">
 </p>
 
