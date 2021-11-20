@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    Do stuff of DDoS Pentest and Malware Analysis but mainly focus on Security Software development
+    Do stuff of DDoS Pentest and Malware Analysis but mainly focus on Security Software development.
 </p>
 
 <p align="center">
