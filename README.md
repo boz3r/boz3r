@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-   I'm just a guy, Who like to eat chocolate cake and stuff.
-</p>
-
-<p align="center">
-    Do stuff of DDoS Pentest and Malware Analysis but mainly focus on Security Software development.
+      I'm just a guy, Who's like to eat chocolate cake and sausage.
 </p>
 
 <p align="center">
