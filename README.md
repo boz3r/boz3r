@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-      Newbie Security Software Developer and Malware Analyst.
+      Newbie Malware Analyst and Security Software Developer.
 </p>
 
 <p align="center">
