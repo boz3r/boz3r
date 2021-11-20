@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-      I'm just a guy, Who's like to eat chocolate cake and sausage.
-</p>
-
-<p align="center">
-      Newbie Malware Analyst and Security Software Developer.
+      I'm a 17 years old, Newbie Malware Analyst and Security Software Developer.
 </p>
 
 <p align="center">
