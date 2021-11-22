@@ -14,7 +14,7 @@
 - 🎩 I really like to learn about Malware, Denial of Service and Coding.
 - 👾 I write Go mostly, But also know another language like C/C++ and Java too.
 - 🧢 I’m looking to join some University with IT, CS or SE Major.
-- 😞 Fact: I don't know almost everything about web dev.
+- 😞 Fact: I'm not really good at web development.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boz3r&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boz3r&show_icons=true)
