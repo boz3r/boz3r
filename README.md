@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning about Reverse Engineer on C/C++.
 - 🎩 I really like to learn about Malware, Denial of Service and Coding.
-- 👾 I write Go mostly, But also know another language like C/C++ and Java too.
+- 👾 I write Go and C mostly, But also know another language like C++ and Java too.
 - 🧢 I’m looking to join some University with IT, CS or SE Major.
 - 😞 Fact: I'm not really good at web development.
 
