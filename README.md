@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-      I'm a 17 years old, Who's not like to eat a cream part of oreo.
-</p>
-
-<p align="center">
     <img src="qweoiuqweiu.gif" alt="Typing">
 </p>
 
