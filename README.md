@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    I'm a 17 years old, Newbie Malware Analyst and DDoS Pentester.
+    I'm a 17 years old, Newbie Security Software Developer and Malware Analyst.
 </p>
 
 <p align="center">
