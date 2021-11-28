@@ -1,5 +1,5 @@
 <p align="center">
-    Hello, I'm Don - aka Bozer/Boombozer.
+    Hello, I'm Don - aka Bozer/BoomBozer.
 </p>
 
 <p align="center">
