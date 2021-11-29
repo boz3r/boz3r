@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    I'm a 17 years old, Who's doesn't like to eat a cream part of oreo.
+    I'm a 17 years old, Who's like to eat chips and nugget.
 </p>
 
 <p align="center">
