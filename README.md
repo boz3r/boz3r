@@ -19,6 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boz3r&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boz3r&show_icons=true)
 
-<a href="https://github.com/Boz3r/Fatebot-v0.3.1">
+<a href="https://github.com/Boz3r/Fatebot-v0.4">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boz3r&repo=Fatebot-v0.3.1&show_owner=true&show_icons=true"/>
 </a>
