@@ -1,9 +1,9 @@
 <p align="center">
-    Hello, I'm Don - aka Bozer/BoomBozer.
+    Hello, I'm Don - aka Bozer/BoomBozer
 </p>
 
 <p align="center">
-    I'm a 17 years old, Who's like to eat a delicious ting.
+    I'm a 17 years old, Who's like to eat fries and chicken nugget.
 </p>
 
 <p align="center">
