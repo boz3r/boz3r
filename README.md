@@ -10,7 +10,7 @@
     <img src="qweoiuqweiu.gif" alt="Typing">
 </p>
 
-- 🌱 I’m currently learning about Reverse Engineer on C/C++.
+- 🌱 I’m currently learning about Reverse Engineer.
 - 🎩 I'm interested in Coding, Malware, Network Security and Denial of Service.
 - 👾 I write Go mostly, But also know another language too.
 - 🧢 I’m looking to join some University with IT, CS or SE Major.
