@@ -10,5 +10,5 @@
     <img src="1.gif" alt="----">
 </p>
 
-<p align="center">Interested in Coding, Malware, Network Security and Denial of Service.</p>
-<p align="center">Write Go mostly but also know another language too.</p>
+<p align="center">I'm Interested in Coding, Malware, Network Security and Denial of Service.</p>
+<p align="center">I Write Go mostly but also know another language too.</p>
