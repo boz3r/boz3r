@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="qweoiuqweiu.gif" alt="Typing">
+    <img src="1.gif" alt="----">
 </p>
 
 <p align="center">Interested in Coding, Malware, Network Security and Denial of Service.</p>
