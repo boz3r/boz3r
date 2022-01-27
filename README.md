@@ -6,4 +6,4 @@
                                  17 years old, Who's like to develop malware and security software.
 
     - I'm Interested in Coding, Malware and Network.                     - 1st year IT major at KMUTT.
-    - I write stuff mostly in Go and C.                                  - Focusing on DDoS and Worm Protection.
+    - I write stuff mostly in Go.                                        - Focusing on DDoS and Worm Protection.
