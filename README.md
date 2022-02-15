@@ -34,6 +34,6 @@
     <img align="left" alt="Fedora" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" style="padding-right:10px;">
 </a>
 
-<a href="https://https://www.microsoft.com/th-th/windows?r=1">
+<a href="https://www.microsoft.com/windows/">
     <img align="left" alt="Fedora" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" style="padding-right:10px;">
 </a>
