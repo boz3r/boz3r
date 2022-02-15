@@ -8,6 +8,26 @@
     
 <right>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boz3r&show_icons=true&theme=default)</right>
 
-<img align="left" alt="Go" width="35px" src="https://img.icons8.com/color/48/000000/golang.png" style="padding-right:10px;">
-<img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;">
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;">
+<a href="https://go.dev/">
+    <img align="left" alt="Go" width="28px" src="https://img.icons8.com/color/48/000000/golang.png" style="padding-right:10px; ">
+</a>
+
+<a href="https://clang.llvm.org/">
+    <img align="left" alt="C" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;">
+</a>
+
+<a href="https://github.com/boz3r">
+    <img align="left" alt="Github" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="padding-right:10px;">
+</a>
+
+<a href="https://code.visualstudio.com/">
+    <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;">
+</a>
+
+<a href="https://www.virtualbox.org/">
+    <img align="left" alt="VirtualBox" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" style="padding-right:10px;">
+</a>
+
+<a href="https://getfedora.org/">
+    <img align="left" alt="Fedora" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" style="padding-right:10px;">
+    </a>
