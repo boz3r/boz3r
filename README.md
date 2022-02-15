@@ -1,5 +1,5 @@
 <img src="aaaa.gif" alt="----" align="left" width="330" height="350">
-<br></br>
+
     - Hello, I'm Bozer/Bulldozer but you can call me Dol.
     - I'm Interested in Coding, Malware and Network.                      
     - 1st year IT major SE track at KMUTT.
