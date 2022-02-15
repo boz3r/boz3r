@@ -29,5 +29,9 @@
 </a>
 
 <a href="https://getfedora.org/">
-    <img align="left" alt="Fedora" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" style="padding-right:10px;">
-    </a>
+    <img align="left" alt="Fedora" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" style="padding-right:10px;">
+</a>
+
+<a href="https://getfedora.org/">
+    <img align="left" alt="Fedora" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" style="padding-right:10px;">
+</a>
