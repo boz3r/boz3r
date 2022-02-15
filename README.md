@@ -1,4 +1,4 @@
-<img src="aaaa.gif" alt="----" align="left" width="330" height="352">
+<img src="aaaa.gif" alt="----" align="left" width="330" height="350">
 
 ```diff
 + Hello, I'm Bozer but you can call me Dol.
