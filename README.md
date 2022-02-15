@@ -1,4 +1,4 @@
-<img src="aaaa.gif" alt="----" align="left" width="330" height="360">
+<img src="aaaa.gif" alt="----" align="left" width="330" height="355">
 
     - Hello, I'm Bozer/Bulldozer but you can call me Dol.
     - I'm Interested in Coding, Malware and Network.                      
