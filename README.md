@@ -1,9 +1,9 @@
 <img src="aaaa.gif" alt="----" align="left" width="330" height="355">
 
     - Hello, I'm Bozer but you can call me Dol.
-    - I'm Interested in Coding, Malware and Network.                      
+    - I'm Interested in Coding, Malware and Network.
     - 1st year B.Sc IT at KMUTT.
-    - I write stuff mostly in Go and C.                                   
+    - I write stuff mostly in Go and C.
     - Focusing on DDoS and Worm Protection/Attack.
     
 <right>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boz3r&show_icons=true&theme=default)</right>
