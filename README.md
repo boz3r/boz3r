@@ -1,7 +1,7 @@
 <img src="aaaa.gif" alt="----" align="left" width="330" height="345">
 
 ```diff
-+ Hello, I'm Bozer or Bulldozern but you can call me Dol.
++ Hello, I'm Bozer\Bulldozer but you can call me Dol.
 - I'm really suck at web development field.
 @@ 1st year B.Sc IT at KMUTT. @@
 + I write stuff mostly in Go and C.
