@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://www.debian.org/">
-    <img align="left" alt="Debian" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" style="padding-right:10px;">
+    <img align="left" alt="Debian" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" style="padding-right:10px;">
 </a>
 
 <a href="https://www.microsoft.com/windows/">
