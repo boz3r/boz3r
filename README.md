@@ -30,8 +30,8 @@
     <img align="left" alt="VirtualBox" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" style="padding-right:10px;">
 </a>
 
-<a href="https://getfedora.org/">
-    <img align="left" alt="Fedora" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" style="padding-right:10px;">
+<a href="https://www.debian.org/">
+    <img align="left" alt="Debian" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" style="padding-right:10px;">
 </a>
 
 <a href="https://www.microsoft.com/windows/">
