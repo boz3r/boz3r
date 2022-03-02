@@ -26,12 +26,12 @@
     <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;">
 </a>
 
-<a href="https://www.virtualbox.org/">
-    <img align="left" alt="VirtualBox" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" style="padding-right:10px;">
+<a href="https://www.vmware.com/products/workstation-player.html">
+    <img align="left" alt="VMware" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" style="padding-right:10px;">
 </a>
 
-<a href="https://www.debian.org/">
-    <img align="left" alt="Debian" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" style="padding-right:10px;">
+<a href="https://getfedora.org/">
+    <img align="left" alt="Yep... i'm back to RedHat based again" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" style="padding-right:10px;">
 </a>
 
 <a href="https://www.microsoft.com/windows/">
