@@ -55,5 +55,5 @@
 </a>
 
 <a href="https://git-scm.com/downloads">
-    <img align="left" alt="fedora" height="25" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" style="padding-right:10px;">
+    <img align="left" alt="fedora" height="25" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" style="padding-right:10px;">
 </a>
