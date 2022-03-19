@@ -43,7 +43,7 @@
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Linux">
-    <img align="left" alt="Linux" height="28" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right:10px;">
+    <img align="left" alt="Linux" height="29" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style="padding-right:10px;">
 </a>
 
 <a href="https://www.vmware.com/products/workstation-player.html">
