@@ -1,4 +1,4 @@
-<img src="aaaa.gif" alt="me when can't fix that stupid bug." align="left" width="330" height="355">
+<img src="aaaa.gif" alt="me when can't fix that stupid bug." align="left" width="330" height="345">
 
 ```diff
 + Hello, I'm Bozer\Bulldozer but you can call me Dol.
