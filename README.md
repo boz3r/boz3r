@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://www.eclipse.org/">
-    <img align="left" alt="eclipse" height="25" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" style="padding-right:10px;">
+    <img align="left" alt="eclipse" height="25" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" style="padding-right:10px;">
 </a>
 <br><br>
 <a href="https://getfedora.org/">
