@@ -1,7 +1,7 @@
 <img src="aaaa.gif" alt="me when can't fix that stupid bug." align="left" width="330" height="345">
 
 ```diff
-+ Hello, I'm Bozer\Bulldozer but you can call me Dol.
++ Hello, I'm Bozer but you can call me Dol.
 - I'm really suck at web development field.
 @@ 17 years old. High school geek. @@
 + I write stuff mostly in Go, C and Java.
