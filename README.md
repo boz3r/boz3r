@@ -26,8 +26,8 @@
     <img align="left" alt="Visual Studio Code" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="padding-right:10px;">
 </a>
 
-<a href="https://www.gnu.org/software/emacs/">
-    <img align="left" alt="Emacs" height="27" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" style="padding-right:10px;">
+<a href="https://neovim.io/">
+    <img align="left" alt="Neovim" height="27" width="28px" src="https://symbols.getvecta.com/stencil_89/33_neovim-icon.1f7a40124e.svg" style="padding-right:10px;">
 </a>
 
 <a href="https://www.eclipse.org/">
