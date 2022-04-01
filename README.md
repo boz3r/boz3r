@@ -3,7 +3,7 @@
 ```diff
 + Hello, I'm Bozer\Bulldozer but you can call me Dol.
 - I'm really suck at web development field.
-@@ 17 years old. Senior high-School geek. @@
+@@ 17 years old. 1st year BSc IT at KMUTT. @@
 + I write stuff mostly in Go and C, but Java is use for GUI project.
 ! Focusing on DDoS and Worm Protection/Attack.
 ```
