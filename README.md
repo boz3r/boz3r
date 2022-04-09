@@ -1,7 +1,7 @@
 <img src="aaaa.gif" alt="me when can't fix that stupid bug." align="left" width="330" height="345">
 
 ```diff
-+ Hello, I'm Bozer\Bulldozer but you can call me Dol.
++ Hello, I'm Bozer\Bulldozer but you can call me Dol (My name).
 - I'm really suck at web development field.
 @@ 17 years old. 1st year BSc IT at KMUTT. @@
 + I write stuff mostly in Go and C, but Java is use for GUI project.
@@ -26,10 +26,6 @@
     <img align="left" alt="Visual Studio Code" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="padding-right:10px;">
 </a>
 
-<a href="https://neovim.io/">
-    <img align="left" alt="Neovim" height="27" width="28px" src="https://symbols.getvecta.com/stencil_89/33_neovim-icon.1f7a40124e.svg" style="padding-right:10px;">
-</a>
-
 <a href="https://www.eclipse.org/">
     <img align="left" alt="Eclipse" height="25" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" style="padding-right:10px;">
 </a>
@@ -40,10 +36,6 @@
 
 <a href="https://www.microsoft.com/windows/">
     <img align="left" alt="Windows" height="27" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" style="padding-right:10px;">
-</a>
-
-<a href="https://rockylinux.org/">
-    <img align="left" alt="Rocky Linux" height="28" width="28px" src="https://cdn.worldvectorlogo.com/logos/rocky-linux.svg" style="padding-right:10px;">
 </a>
 
 <a href="https://www.vmware.com/products/workstation-player.html">
