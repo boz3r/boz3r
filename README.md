@@ -5,7 +5,7 @@
 - I'm really suck at web development field.
 @@ 17 years old. 1st year BSc IT at KMUTT. @@
 + I write stuff mostly in Go and C, but Java is use for GUI project.
-! Focusing on DDoS and Worm Protection/Attack.
+! Focusing on DDoS and Worm Protections/Attacks.
 ```
 
 <right>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boz3r&show_icons=true&theme=default)</right>
