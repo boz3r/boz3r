@@ -22,30 +22,14 @@
     <img align="left" alt="Java" height="25" width="28px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png" style="padding-right:10px;">
 </a>
 
+<a href="https://www.vmware.com/products/workstation-player.html">
+    <img align="left" alt="VMware Player" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" style="padding-right:10px;">
+</a>
+
 <a href="https://code.visualstudio.com/">
     <img align="left" alt="Visual Studio Code" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="padding-right:10px;">
 </a>
 
 <a href="https://www.eclipse.org/">
     <img align="left" alt="Eclipse" height="25" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" style="padding-right:10px;">
-</a>
-<br><br>
-<a href="https://getfedora.org/">
-    <img align="left" alt="Fedora" height="25" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" style="padding-right:10px;">
-</a>
-
-<a href="https://www.microsoft.com/windows/">
-    <img align="left" alt="Windows" height="27" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" style="padding-right:10px;">
-</a>
-
-<a href="https://www.vmware.com/products/workstation-player.html">
-    <img align="left" alt="VMware Player" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" style="padding-right:10px;">
-</a>
-
-<a href="https://github.com/boz3r">
-    <img align="left" alt="Github" height="28" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="padding-right:10px;">
-</a>
-
-<a href="https://git-scm.com/downloads">
-    <img align="left" alt="Git" height="25" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" style="padding-right:10px;">
 </a>
