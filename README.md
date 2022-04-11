@@ -18,18 +18,22 @@
     <img align="left" alt="C" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;">
 </a>
 
-<a href="https://www.oracle.com/java/technologies/downloads/">
-    <img align="left" alt="Java" height="25" width="28px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png" style="padding-right:10px;">
+<a href="https://getfedora.org/">
+    <img align="left" alt="Fedora" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/4/41/Fedora_icon_%282021%29.svg" style="padding-right:10px;">
+</a>
+
+<a href="https://www.microsoft.com/">
+    <img align="left" alt="Windows" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" style="padding-right:10px;">
 </a>
 
 <a href="https://www.vmware.com/products/workstation-player.html">
     <img align="left" alt="VMware Player" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" style="padding-right:10px;">
 </a>
 
-<a href="https://code.visualstudio.com/">
+<a href="https://code.visualstudio.com/download">
     <img align="left" alt="Visual Studio Code" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="padding-right:10px;">
 </a>
 
-<a href="https://www.eclipse.org/">
-    <img align="left" alt="Eclipse" height="25" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" style="padding-right:10px;">
+<a href="https://www.vim.org/">
+    <img align="left" alt="Vim" height="25" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" style="padding-right:10px;">
 </a>
