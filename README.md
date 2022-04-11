@@ -4,7 +4,7 @@
 + Hello, I'm Bozer\Bulldozer but you can call me Dol (My name).
 - I'm really suck at web development field.
 @@ 17 years old. 1st year BSc IT at KMUTT. @@
-+ I write stuff mostly in Go and C, but Java is use for GUI project.
++ I write stuff mostly in Go and C.
 ! Focusing on DDoS and Worm both of protections and attacks.
 ```
 
