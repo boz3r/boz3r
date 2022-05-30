@@ -1,4 +1,4 @@
-<img src="aaaa.gif" alt="me when can't fix that stupid bug." align="left" width="330" height="345">
+<img src="aaaa.gif" alt="me when can't fix that stupid bug." align="left" width="330" height="354">
 
 ```diff
 + Hello, I'm Bozer\Bulldozer but you can call me Dol (My name).
@@ -7,7 +7,6 @@
 + I write stuff mostly in Go and C.
 ! Focusing on DDoS and Computer Worm both of protections and attacks.
 ```
-
 <right>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boz3r&show_icons=true&theme=default)</right>
 
 <a href="https://go.dev/">
