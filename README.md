@@ -4,7 +4,7 @@
 + Hello, I'm Bozer\Bulldozer but you can call me Dol (My name).
 - I am really suck at web development field.
 @@ 18 years old. 1st year BSc IT at KMUTT. @@
-+ I write stuff mostly in Go but still knowing other languages.
++ I write stuff in Go mostly but still knowing other languages.
 ! Focusing on DDoS and Computer Worm both of protections and attacks.
 ```
 <right>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boz3r&show_icons=true&theme=default)</right>
